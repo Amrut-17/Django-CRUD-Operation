@@ -5,4 +5,9 @@
 ####  Update – update or edit existing entries in a table in the database 
 ####  Delete – delete, deactivate, or remove existing entries in a table in the database
 <img src="https://github.com/Amrut-17/Django-CRUD-Operation/blob/main/Web%20SS/Screenshot%20(32).png" alt="SS" width="600" height="300"/>
-
+<img src="https://github.com/Amrut-17/Django-CRUD-Operation/blob/main/Web%20SS/Screenshot%20(33).png" alt="SS" width="600" height="300"/>
+<img src="https://github.com/Amrut-17/Django-CRUD-Operation/blob/main/Web%20SS/Screenshot%20(34).png" alt="SS" width="600" height="300"/>
+<img src="https://github.com/Amrut-17/Django-CRUD-Operation/blob/main/Web%20SS/Screenshot%20(35).png" alt="SS" width="600" height="300"/>
+<img src="https://github.com/Amrut-17/Django-CRUD-Operation/blob/main/Web%20SS/Screenshot%20(36).png" alt="SS" width="600" height="300"/>
+<img src="https://github.com/Amrut-17/Django-CRUD-Operation/blob/main/Web%20SS/Screenshot%20(37).png" alt="SS" width="600" height="300"/>
+<img src="https://github.com/Amrut-17/Django-CRUD-Operation/blob/main/Web%20SS/Screenshot%20(38).png" alt="SS" width="600" height="300"/>
